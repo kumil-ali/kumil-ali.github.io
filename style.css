@@ -864,6 +864,15 @@
      -webkit-transition-duration: 500ms;
      transition-duration: 500ms;
 }
+
+ .single-white-area .project-content p a {
+     font-weight: 200;
+     font-size: 12px;
+     margin-bottom: 25px;
+     -webkit-transition-duration: 500ms;
+     transition-duration: 500ms;
+}
+
 /* :: 11.0 awards Area */
  .single-award {
      position: relative;
