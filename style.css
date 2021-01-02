@@ -999,9 +999,16 @@
          display:none;
     }
 }
+
  .contact-area a{
      font-size:25px;
 }
+
+ .contact-area a:hover, .contact-area a:focus{
+ 	font-size:28px;
+   color:#000;
+}
+
  @media only screen and (max-width: 767px) {
      .contact-area a{
          font-size:16px;
@@ -1082,6 +1089,10 @@
      margin-bottom: 0;
      color: #252525;
 }
+
+.single-contact-info .contact-text h5 {
+	text-align:left;
+	}
  @media only screen and (min-width: 768px) and (max-width: 991px) {
      .single-contact-info {
          -webkit-box-flex: 0;
