@@ -48,7 +48,7 @@
      transition-duration: 500ms;
      text-decoration: none;
      outline: 0 solid transparent;
-     color: #14c4ff;
+     color: #FE0101;
      font-weight: 500;
      font-size: 18px;
 }
@@ -165,7 +165,7 @@
      height: 30px;
      margin-bottom: 15px;
      display: block;
-     background-color: #14c4ff;
+     background-color: #FE0101;
 }
  .section-heading h2 {
      margin-bottom: 100px;
@@ -192,7 +192,7 @@
 }
 /* Preloader */
  #preloader {
-     background-color: #14c4ff;
+     background-color: #FE0101;
      width: 100%;
      height: 100%;
      position: fixed;
@@ -303,7 +303,7 @@
      -webkit-transition-duration: 500ms;
      transition-duration: 500ms;
      text-transform: capitalize;
-     background-color: #14c4ff;
+     background-color: #FE0101;
      margin: 30px;
      overflow: hidden;
 }
@@ -328,7 +328,7 @@
      color: #fff;
 }
  .contact-link:hover , .contact-link:focus, .contact-link:active{
-     color: #14c4ff;
+     color: #FE0101;
 }
  #logo:hover{
      cursor: pointer;
@@ -371,7 +371,7 @@
 }
  .header-area .main-menu .classy-navbar .classynav ul li a:hover, .header-area .main-menu .classy-navbar .classynav ul li a:focus {
      font-weight: 500;
-     color: #14c4ff;
+     color: #FE0101;
 }
  .header-area .main-menu .classy-navbar .classynav > ul > li > a {
      text-transform: capitalize;
@@ -398,7 +398,7 @@
     }
 }
  .header-area .main-menu .classy-navbar .classynav > ul > li > a:hover, .header-area .main-menu .classy-navbar .classynav > ul > li > a:focus {
-     color: #14c4ff;
+     color: #FE0101;
 }
  .header-area .main-menu .classy-navbar .classynav > ul > li.active > a {
      position: relative;
@@ -408,7 +408,7 @@
  .header-area .main-menu .classy-navbar .classynav > ul > li.active > a::before {
      -webkit-transition-duration: 250ms;
      transition-duration: 250ms;
-     background-color: #14c4ff;
+     background-color: #FE0101;
      width: 100%;
      height: 5px;
      position: absolute;
@@ -523,7 +523,7 @@
 }
  .About-Me-area .About-Me-content h2 {
      font-size: 92px;
-     color: #14c4ff;
+     color: #FE0101;
      margin-bottom: -10px;
      font-weight: 600;
      line-height: 1.1;
@@ -599,7 +599,7 @@
      margin-bottom: 0;
 }
  .About-Me-area .About-Me-content .contact-info a:hover, .About-Me-area .About-Me-content .contact-info a:focus {
-     color: #14c4ff;
+     color: #FE0101;
 }
  .About-Me-area .About-Me-content .social-info a {
      display: inline-block;
@@ -607,7 +607,7 @@
      font-size: 14px;
 }
  .About-Me-area .About-Me-content .social-info a:hover, .About-Me-area .About-Me-content .social-info a:focus {
-     color: #14c4ff;
+     color: #FE0101;
 }
  .About-Me-content img {
      float:left;
@@ -696,7 +696,7 @@
  .blue-area {
      position: relative;
      z-index: 1;
-     background-color: #14c4ff;
+     background-color: #FE0101;
 }
  .blue-area h6, .blue-area p{
      text-align: center;
@@ -753,7 +753,7 @@
 
 /* ScrollUp */
  #scrollUp {
-     background-color: #14c4ff;
+     background-color: #FE0101;
      border-radius: 0;
      bottom: 100px;
      box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
@@ -829,7 +829,7 @@
  .single-white-area .project-content .img-zoom a {
      text-align: center;
      font-size: 24px;
-     color: #14c4ff;
+     color: #FE0101;
      display: block;
      -webkit-transition-duration: 500ms;
      transition-duration: 500ms;
@@ -905,7 +905,7 @@
  .award-slides .owl-next {
     width: 50px;
     height: 50px;
-    background-color: #14c4ff;
+    background-color: #FE0101;
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
@@ -966,7 +966,7 @@
      font-size: 12px;
 }
  .footer-area p a:hover, .footer-area p a:focus {
-     color: #14c4ff;
+     color: #FE0101;
 }
 /* :: 13.0 Contact Area */
  .contact-area {
@@ -1017,7 +1017,7 @@
 }
  .contact-form-area .form-control:focus {
      box-shadow: none;
-     border-bottom: 3px solid #14c4ff;
+     border-bottom: 3px solid #FE0101;
 }
  .contact-form-area textarea.form-control {
      padding: 15px 20px;
@@ -1029,7 +1029,7 @@
      position: relative;
      z-index: 1;
      padding-top: 50px;
-     background-color: #14c4ff;
+     background-color: #FE0101;
      margin-left: 40px;
      margin-right: 40px;
      margin-top: 50px;
