@@ -909,6 +909,7 @@
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
+    padding-bottom: 40px;
     font-size: 20px;
     color: #fff;
     -webkit-transition-duration: 500ms;
